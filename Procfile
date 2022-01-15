@@ -3,5 +3,5 @@ pandas
 gunicorn
 numpy
 matplotlib
-sklearn
+scikit-learn==0.23.2
 skimage
