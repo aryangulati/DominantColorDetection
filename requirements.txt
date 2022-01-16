@@ -1,8 +1,5 @@
 scikit-learn
 ipywidgets
-numpy
-pandas
+os
 matplotlib
-plotly
 voila
-voila-material
